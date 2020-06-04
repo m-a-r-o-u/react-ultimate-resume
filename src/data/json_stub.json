@@ -1,54 +1,33 @@
 {
     "basics": {
-        "name": "Mares Barekzai",
-        "label": "Programmer",
-        "picture": "",
-        "email": "john.doe@mail.com",
+        "name": "Mares Alexander Barekzai",
+        "label": "Physicist, Data Scientict and Software Developer",
+        "picture": "https://www.wavestoweather.de/bilder/phd/barekzai_mares_scaled.jpg",
+        "email": "mares.barekzai@posteo.de",
         "phone": "(912) 555-4321",
-        "website": "http://johndoe.com",
-        "summary": "A summary of John Doe...",
+        "website": "http://www.maresbarekzai.de",
+        "summary": "Physicist, Data Scientist, Software Enthusiast",
         "location": {
-            "address": "2712 Broadway St",
-            "postalCode": "CA 94115",
-            "city": "San Francisco",
-            "countryCode": "US",
-            "region": "California"
+            "address": "Maronstr. 2",
+            "postalCode": "81373",
+            "city": "Munich",
+            "countryCode": "DE",
+            "region": "Bavaria",
+            "name": "Munich"
         },
-        "profiles": [
-            {
-                "network": "Twitter",
-                "username": "john",
-                "url": "http://twitter.com/john"
-            }
-        ]
+        "profiles": [{ "network": "", "username": "", "url": "" }]
     },
     "work": [
         {
-            "name": "Company 2 ",
-            "position": "Worker",
-            "website": "http://company.com",
-            "startDate": "2014-01-01",
-            "summary": "Description...",
-            "location": "Paris, France",
-            "highlights": ["Started the company"]
-        },
-        {
-            "name": "What a nice office",
-            "position": "President",
-            "website": "http://company.com",
-            "startDate": "2013-01-01",
-            "endDate": "2014-01-01",
-            "summary": "Description...",
-            "location": "Paris, France",
-            "highlights": ["Started the company"]
-        },
-        {
-            "name": "What a nice experience",
-            "position": "Lead dev",
-            "website": "http://company.com",
-            "summary": "Description...",
-            "location": "Paris, France",
-            "highlights": ["Started the company"]
+            "index": 0,
+            "id": "1ca4e11b-68c9-417f-b4a7-43cd6fe0384f",
+            "name": "Ludwig-Maximilians University",
+            "position": "Scientist",
+            "place": { "name": "Munich" },
+            "startDate": "2016-09-04",
+            "endDate": "2020-06-01",
+            "summary": "Responsible for the implementation and scientific evaluation of new cloud droplet growth mechanisms.",
+            "location": "Munich"
         }
     ],
     "volunteer": [
@@ -63,32 +42,23 @@
     ],
     "education": [
         {
-            "institution": "ISEN",
-            "area": "Software Development",
-            "studyType": "Engineer Degree",
-            "startDate": "2011-01-01",
-            "endDate": "2013-01-01",
-            "gpa": "4.0",
-            "courses": ["DB1101 - Basic SQL"]
+            "position": 1,
+            "id": "4a9bdea2-472c-48d3-b6e9-36589e71320a",
+            "institution": "Ludwig-Maximilians University",
+            "endDate": "2020-01-01",
+            "studyType": "PhD",
+            "area": "Atmospheric Physics"
         },
         {
-            "institution": "Université d'artois",
-            "area": "",
-            "studyType": "",
-            "startDate": "2011-01-01",
-            "endDate": "",
-            "gpa": "4.0",
-            "courses": ["DB1101 - Basic SQL"]
+            "position": 0,
+            "id": "70d6d93c-c754-4d97-baf0-8dc00300d329",
+            "institution": "University of Cologne",
+            "endDate": "2015-01-01",
+            "studyType": "Master",
+            "area": "Physics"
         }
     ],
-    "awards": [
-        {
-            "title": "Award",
-            "date": "2014-11-01",
-            "awarder": "Company",
-            "summary": "There is no spoon."
-        }
-    ],
+    "awards": [{ "title": "Award", "date": "2014-11-01", "awarder": "Company", "summary": "There is no spoon." }],
     "publications": [
         {
             "name": "Publication",
@@ -99,108 +69,105 @@
         }
     ],
     "skills": [
-        {
-            "name": "Reactaaa",
-            "level": "Master",
-            "value": 100,
-            "keywords": ["HTML", "CSS", "Javascript"]
-        },
-        {
-            "name": "Angular",
-            "level": "Master",
-            "value": 80,
-            "keywords": ["HTML", "CSS", "Javascript"]
-        },
-        {
-            "name": "NodeJS",
-            "level": "Master",
-            "value": 40,
-            "keywords": ["HTML", "CSS", "Javascript"]
-        },
-        {
-            "name": "Firebase",
-            "level": "Master",
-            "value": 60,
-            "keywords": ["HTML", "CSS", "Javascript"]
-        },
-        {
-            "name": "Gmail",
-            "level": "Master",
-            "value": 20,
-            "keywords": ["HTML", "CSS", "Javascript"]
-        },
-        {
-            "name": "K8S",
-            "level": "Master",
-            "value": 80,
-            "keywords": ["HTML", "CSS", "Javascript"]
-        }
+        { "name": "Python", "index": 0, "value": 90, "id": "496d526a-f762-4d58-b843-b534291dfa65" },
+        { "name": "C++", "index": 1, "value": 70, "id": "1af91697-2d77-473b-8e0b-875cb8152628" },
+        { "name": "Bash", "index": 2, "value": 90, "id": "55430023-805e-4059-ae47-2baae61e4998" },
+        { "name": "Django", "index": 3, "value": 60, "id": "443613c3-765a-41ea-9fff-d54cefdaf482" },
+        { "name": "Docker", "index": 4, "value": 60, "id": "03a0df12-9957-4ff0-82b5-bb6cc17640c3" }
     ],
-    "languages": [{ "language": "English", "value": 100, "fluency": "Native speaker" }],
+    "languages": [
+        { "language": "German", "value": 100, "fluency": "Native speaker" },
+        { "language": "English", "value": 95, "fluency": "Proficient speaker" },
+        { "language": "French", "value": 75, "fluency": "Advanced speaker" },
+        { "language": "Spanish", "value": 75, "fluency": "Advanced speaker" }
+    ],
     "interests": [
-        {
-            "name": "Burritos",
-            "gifUrl": "https://media.giphy.com/media/d8WjGORtSEWqc/giphy.gif"
-        },
-        {
-            "name": "Dogs",
-            "gifUrl": "https://media.giphy.com/media/3o85xsGXVuYh8lM3EQ/giphy.gif"
-        },
-        {
-            "name": "Tendresse",
-            "gifUrl": "https://media.giphy.com/media/EehnUUCH2JcwU/giphy.gif"
-        },
-        {
-            "name": "Something",
-            "gifUrl": "https://media.giphy.com/media/xTiTnIuKP1BLsMTerS/giphy.gif"
-        },
-        {
-            "name": "J'aime faire de la course à pied et des randonnées en famille le weekend."
-        }
+        { "name": "Nature", "id": "66b40476-045e-463a-bfca-6cd779972c1c", "index": 1 },
+        { "name": "Sport", "id": "8a92adf9-cd27-4df8-a13e-d15298ab7502", "index": 2 },
+        { "name": "Music", "id": "f6dc02b0-9cdf-4087-b207-e34b26a55d51", "index": 3 }
     ],
-    "references": [{ "name": "Jane Doe", "reference": "Reference..." }],
+    "references": [{ "name": "Mares Barekzai", "reference": "Reference..." }],
     "projects": [
         {
-            "name": "Développement d'un serpent connecté",
-            "description": "Et oui, vous avez bien entendu !\nUn serpent connecté, c'est comme une montre connectée, mais en serpent, en fait ça ressemble pas une montre, mais ça reste connecté 🚀",
-            "images": []
+            "name": "Katja Brömer Online Shop",
+            "date": "2020-06-04T10:14:46.639Z",
+            "description": "A Django based online shop to buy high quality prints and other artwork.\nIn cooperation with Katja Brömer (www.katjabroemer.de).",
+            "id": "9908b84d-4c03-439e-b8ad-354d3d8d4654",
+            "endDate": "2020-06-04"
         }
     ],
     "specific": {
         "basics": {
-            "visaSponsorship": true,
-            "personalDescription": "This is a longer description of me, of my backstory, my backyard, my backfire, my backend, my frontend and my friends."
+            "visaSponsorship": false,
+            "personalDescription": "I have a masters degree in theoretical physics from the University of Cologne and a PhD in atmospheric physics from the Ludwig-Maximilians University in Munich. In my Bachelors, I was introduced to programming and immediately fascinated by the power of automating cumbersome tasks. Subsequent, I could deepen my knowledge by working with complex and chaotic atmospheric models. "
         },
         "dreamJob": {
             "locations": [
-                { "name": "Valenciennes, France" },
-                { "name": "Lille, France" },
-                { "name": "Paris,France" },
-                { "name": "Paris,France" },
-                { "name": "Lille, France" },
-                { "name": "Valenciennes, France" }
+                { "name": "Europe", "id": "96d57b59-f8db-4091-8a1b-de40ab65e86e" },
+                { "name": "North America", "id": "d327c6a1-5954-4b52-bdb3-c60b80e051c6" }
             ],
-            "remoteFrequency": "regularly"
+            "remoteFrequency": "occasionally",
+            "perks": { "mood": true, "challenge": true, "training": true, "work_hours": true },
+            "salary": ""
         },
-        "currentJob": {
-            "issues": { "boring_management": true, "boring_team": true }
-        },
-        "education": { "studiesLevel": 5 },
+        "currentJob": { "issues": { "boring_management": true, "no_tech": true } },
+        "education": { "studiesLevel": 9 },
         "work": {
             "contractTypes": ["permanent"],
             "codingYears": 7,
-            "codingReason": "J'ai commencé à coder sur Amstrad dans ma cave et je n'ai jamais arrêté depuis",
-            "searchState": "activelySearching",
-            "experienceYears": 9
+            "codingReason": "I am motivated by the joy of creation.",
+            "searchState": "openOpportunities",
+            "experienceYears": 0
         },
-        "sound": {
-            "embedUrl": "https://open.spotify.com/embed/playlist/37i9dQZF1DWWl7MndYYxge"
-        },
-        "interestedBy": "Angular, la blochain et les chatons."
+        "sound": { "embedUrl": "https://open.spotify.com/embed/playlist/37i9dQZF1DWWl7MndYYxge" },
+        "interestedBy": "automating repetitive tasks."
     },
     "resumeCustomization": {
+        "theme": {
+            "palette": {
+                "primary": {
+                    "50": "#eeeff1",
+                    "100": "#dde0e2",
+                    "200": "#bbc0c6",
+                    "300": "#99a1a9",
+                    "400": "#77818d",
+                    "500": "#556270",
+                    "600": "#444e5a",
+                    "700": "#333b43",
+                    "800": "#22272d",
+                    "900": "#111416",
+                    "contrastDefaultColor": "light"
+                },
+                "secondary": {
+                    "50": "#edfaf9",
+                    "100": "#dcf5f3",
+                    "200": "#b8ebe7",
+                    "300": "#95e1dc",
+                    "400": "#71d7d0",
+                    "500": "#4ecdc4",
+                    "600": "#3ea49d",
+                    "700": "#2f7b76",
+                    "800": "#1f524e",
+                    "900": "#102927",
+                    "contrastDefaultColor": "light"
+                },
+                "tertiary": {
+                    "50": "#f9fef0",
+                    "100": "#f4fde0",
+                    "200": "#e9fbc1",
+                    "300": "#ddf8a2",
+                    "400": "#d2f683",
+                    "500": "#c7f464",
+                    "600": "#9fc350",
+                    "700": "#77923c",
+                    "800": "#506228",
+                    "900": "#283114",
+                    "contrastDefaultColor": "light"
+                }
+            }
+        },
         "imageHeader": {
-            "url": "https://cdn.filestackcontent.com/8I2wVnCRTFxypXRYLRsp",
+            "url": "https://images.pexels.com/photos/1295138/pexels-photo-1295138.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
             "alt": "Default Banner"
         },
         "cardsOrder": [
@@ -215,10 +182,6 @@
             { "type": "language", "variant": 4 },
             { "type": "soundtrack", "variant": 4 }
         ],
-        "fields": {
-            "work": {
-                "customDateFormat": "YYYY"
-            }
-        }
+        "fields": { "work": { "customDateFormat": "YYYY" } }
     }
 }

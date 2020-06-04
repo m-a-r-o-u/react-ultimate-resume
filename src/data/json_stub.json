@@ -82,18 +82,39 @@
         { "language": "Spanish", "value": 75, "fluency": "Advanced speaker" }
     ],
     "interests": [
-        { "name": "Nature", "id": "66b40476-045e-463a-bfca-6cd779972c1c", "index": 1 },
-        { "name": "Sport", "id": "8a92adf9-cd27-4df8-a13e-d15298ab7502", "index": 2 },
-        { "name": "Music", "id": "f6dc02b0-9cdf-4087-b207-e34b26a55d51", "index": 3 }
+        {
+            "name": "Nature",
+            "id": "66b40476-045e-463a-bfca-6cd779972c1c",
+            "index": 0,
+            "gifUrl": "https://planetoutdoor.de/sites/planetoutdoor.de/files/panoramabergwank_der_wank_ruft_1_c_bzb_fend.jpg"
+        },
+        {
+            "name": "Sport",
+            "id": "8a92adf9-cd27-4df8-a13e-d15298ab7502",
+            "index": 1,
+            "gifUrl": "https://images.unsplash.com/photo-1502680390469-be75c86b636f?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&w=1000&q=80"
+        },
+        {
+            "name": "Music",
+            "id": "f6dc02b0-9cdf-4087-b207-e34b26a55d51",
+            "index": 2,
+            "gifUrl": "https://i1.wp.com/livewallpaper.info//wp-content/uploads/2017/02/guitar-wallpaper-High-Resolution-Download1.jpg?ssl=1"
+        }
     ],
     "references": [{ "name": "Mares Barekzai", "reference": "Reference..." }],
     "projects": [
         {
             "name": "Katja Brömer Online Shop",
-            "date": "2020-06-04T10:14:46.639Z",
+            "date": "2020-06-03T22:00:00.000Z",
             "description": "A Django based online shop to buy high quality prints and other artwork.\nIn cooperation with Katja Brömer (www.katjabroemer.de).",
             "id": "9908b84d-4c03-439e-b8ad-354d3d8d4654",
-            "endDate": "2020-06-04"
+            "endDate": "2020-06-04",
+            "index": 0,
+            "images": [
+                {
+                    "url": "https://image.jimcdn.com/app/cms/image/transf/dimension=711x10000:format=jpg/path/s4a28681b7e3e8f13/image/ib134553240e94d64/version/1556550595/image.jpg"
+                }
+            ]
         }
     ],
     "specific": {
@@ -167,7 +188,7 @@
             }
         },
         "imageHeader": {
-            "url": "https://images.pexels.com/photos/1295138/pexels-photo-1295138.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+            "url": "https://wallpapermemory.com/uploads/452/wave-background-hd-1680x1050-384788.jpg",
             "alt": "Default Banner"
         },
         "cardsOrder": [

@@ -1,12 +1,12 @@
 {
     "basics": {
         "name": "Mares Alexander Barekzai",
-        "label": "Physicist, Data Scientict and Software Developer",
-        "picture": "https://www.wavestoweather.de/bilder/phd/barekzai_mares_scaled.jpg",
+        "label": "Physicist, Data Scientict and Software Developer with a passion for nature",
+        "picture": "https://drive.google.com/uc?id=1dpAIe7QA66KRM5WIwy5Gt5gUAdmWj3iN",
         "email": "mares.barekzai@posteo.de",
         "phone": "(912) 555-4321",
         "website": "http://www.maresbarekzai.de",
-        "summary": "Physicist, Data Scientist, Software Enthusiast",
+        "summary": "Physicist, Data Scientist, Software Enthusiast with a passion for nature",
         "location": {
             "address": "Maronstr. 2",
             "postalCode": "81373",
@@ -24,7 +24,7 @@
             "name": "Ludwig-Maximilians University",
             "position": "Scientist",
             "place": { "name": "Munich" },
-            "startDate": "2016-09-04",
+            "startDate": "2015-09-04",
             "endDate": "2020-06-01",
             "summary": "Responsible for the implementation and scientific evaluation of new cloud droplet growth mechanisms.",
             "location": "Munich"
@@ -83,22 +83,28 @@
     ],
     "interests": [
         {
-            "name": "Nature",
-            "id": "66b40476-045e-463a-bfca-6cd779972c1c",
-            "index": 0,
-            "gifUrl": "https://planetoutdoor.de/sites/planetoutdoor.de/files/panoramabergwank_der_wank_ruft_1_c_bzb_fend.jpg"
-        },
-        {
-            "name": "Sport",
-            "id": "8a92adf9-cd27-4df8-a13e-d15298ab7502",
-            "index": 1,
-            "gifUrl": "https://images.unsplash.com/photo-1502680390469-be75c86b636f?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&w=1000&q=80"
-        },
-        {
-            "name": "Music",
+            "name": "",
             "id": "f6dc02b0-9cdf-4087-b207-e34b26a55d51",
-            "index": 2,
-            "gifUrl": "https://i1.wp.com/livewallpaper.info//wp-content/uploads/2017/02/guitar-wallpaper-High-Resolution-Download1.jpg?ssl=1"
+            "index": 0,
+            "gifUrl": "https://drive.google.com/uc?id=1JeakvMNNirUoTdgso1wI9PPMRXdLNi5z"
+        },
+        {
+            "name": "",
+            "id": "f6dc02b0-9cdf-4087-b207-e34b26a55d51",
+            "index": 3,
+            "gifUrl": "https://drive.google.com/uc?id=1ymmTJtMejFCSpzZsCdXu-A04fM53bmXo"
+        },
+        {
+            "name": "",
+            "id": "f6dc02b0-9cdf-4087-b207-e34b26a55d51",
+            "index": 4,
+            "gifUrl": "https://drive.google.com/uc?id=1G_Y04rXmbcmq1n7_2Bo4iQpGD-xYYCxS"
+        },
+        {
+            "name": "",
+            "id": "f6dc02b0-9cdf-4087-b207-e34b26a55d51",
+            "index": 5,
+            "gifUrl": "https://drive.google.com/uc?id=1SOFNf8-h_XBOsH8kd9UYlPBpKIVBCxJq"
         }
     ],
     "references": [{ "name": "Mares Barekzai", "reference": "Reference..." }],
@@ -128,17 +134,16 @@
                 { "name": "North America", "id": "d327c6a1-5954-4b52-bdb3-c60b80e051c6" }
             ],
             "remoteFrequency": "occasionally",
-            "perks": { "mood": true, "challenge": true, "training": true, "work_hours": true },
+            "perks": { "mood": true, "challenge": true, "training": true},
             "salary": ""
         },
-        "currentJob": { "issues": { "boring_management": true, "no_tech": true } },
+        "currentJob": {},
         "education": { "studiesLevel": 9 },
         "work": {
             "contractTypes": ["permanent"],
             "codingYears": 7,
             "codingReason": "I am motivated by the joy of creation.",
-            "searchState": "openOpportunities",
-            "experienceYears": 0
+            "experienceYears": 3
         },
         "sound": { "embedUrl": "https://open.spotify.com/embed/playlist/37i9dQZF1DWWl7MndYYxge" },
         "interestedBy": "automating repetitive tasks."
@@ -188,8 +193,11 @@
             }
         },
         "imageHeader": {
-            "url": "https://wallpapermemory.com/uploads/452/wave-background-hd-1680x1050-384788.jpg",
-            "alt": "Default Banner"
+            "url": "https://drive.google.com/uc?id=1Khd2K7E1GLU5Ag3Xkihl2bNH8whaOU5J",
+            "url": "https://drive.google.com/uc?id=1SjNT3pO8PQYyuCndSnuyZdIeoVcoPpRS",
+            "url": "https://drive.google.com/uc?id=1i6IMTbpA9LzTPAkf3AkS3hFBpuO5mlOd",
+            "alt": "Default Banner",
+            "alt": "https://wallpapermemory.com/uploads/452/wave-background-hd-1680x1050-384788.jpg"
         },
         "cardsOrder": [
             { "type": "basics", "variant": 4 },

@@ -69,6 +69,18 @@ const ShareLinksComponent = ({ useSmallLayout }) => {
                                 {content}
                             </a>
                         );
+                    } else {
+                        content = (
+                            <a
+                                key={`share_link_link_${entryId}`}
+                                className={classes.link}
+                                href={getLink}
+                                target="_blank"
+                                rel="noreferrer noopener"
+                            >
+                                {content}
+                            </a>
+                        );
                     }
                     if (tooltipTranslation) {
                         content = (

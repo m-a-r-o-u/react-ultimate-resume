@@ -47,7 +47,7 @@ const FooterComponent = () => {
                     >
                         <a
                             className={classes.githubLink}
-                            href="https://github.com/welovedevs/developer-profile"
+                            href="https://github.com/m-a-r-o-u"
                             target="_bank"
                             rel="noreferer noopener"
                         >
@@ -73,7 +73,7 @@ const FooterComponent = () => {
             >
                 <a
                     className={classes.githubLink}
-                    href="https://github.com/welovedevs/developer-profile"
+                    href="https://github.com/m-a-r-o-u"
                     target="_bank"
                     rel="noreferer noopener"
                 >

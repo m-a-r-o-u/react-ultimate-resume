@@ -1,12 +1,12 @@
 {
     "basics": {
         "name": "Mares Alexander Barekzai",
-        "label": "Physicist, Data Scientict and Software Developer with a passion for nature",
+        "label": "Physicist, Data Scientict and Software Developer with a Passion for Nature",
         "picture": "https://drive.google.com/uc?id=1UpjG-MxWjc3q6X4TgZZC5FERapmjDiLJ",
         "email": "mares.barekzai@posteo.de",
         "phone": "(912) 555-4321",
         "website": "http://www.maresbarekzai.de",
-        "summary": "Physicist, Data Scientist, Software Enthusiast with a passion for nature",
+        "summary": "Physicist, Data Scientist, Software Enthusiast with a Passion for Nature",
         "location": {
             "address": "Maronstr. 2",
             "postalCode": "81373",
@@ -124,7 +124,7 @@
         {
             "name": "Katja Brömer Online Shop",
             "date": "2020-06-03T22:00:00.000Z",
-            "description": "A Django based online shop to buy high quality prints and other artwork.\nIn cooperation with Katja Brömer (www.katjabroemer.de).",
+            "description": "A Django based online shop to buy high quality prints and other artwork.\nIn cooperation with Katja Brömer (www.katja-broemer.de).",
             "id": "9908b84d-4c03-439e-b8ad-354d3d8d4654",
             "endDate": "2020-06-04",
             "index": 0,
